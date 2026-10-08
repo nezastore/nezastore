@@ -1,14 +1,45 @@
-<h1>Hi 👋, I'm </h1>
-<p>Amatiran Bang</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/neizam.muhammad" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.youtube.com/@NezaFvnky" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nezastore&show_icons=true&locale=en" alt="nezastore" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=667EEA&center=true&vCenter=true&width=500&lines=Building+AI-powered+tools;Full-stack+Developer;Jakarta,+Indonesia" alt="Typing SVG" />
+</p>
+
+---
+
+## 👋 Hi, I'm Muhammad Neizam M.
+
+### 🚀 Building
+
+- **[CodeSentinel](https://github.com/nezastore/codesentinel)** — Autonomous AI-powered code review agent
+- **[9router](https://github.com)** — Production AI traffic router & load balancer
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nezastore&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nezastore&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🏆 Achievements
+
+- ✅ Accepted to **Claude Startup Program** by Anthropic
+- ✅ Built production AI traffic router serving multiple providers
+- ✅ Open source contributor
+
+### 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nezastore?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nezastore)
+[![Twitter](https://img.shields.io/badge/Twitter-nezastore?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/nezastore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Neizam?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/nezastore)
+
+---
+
+<p align="center">
+  <i>"Building tools that make developers' lives better."</i>
+</p>
