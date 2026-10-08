@@ -109,17 +109,9 @@ Production-grade routing across multiple AI providers.
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-
-<a href="https://github.com/nezastore">
-<img src="https://img.shields.io/badge/GitHub-nezastore-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://twitter.com/nezastore">
-<img src="https://img.shields.io/badge/Twitter-@nezastore-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-<a href="https://linkedin.com/in/nezastore">
-<img src="https://img.shields.io/badge/LinkedIn-nezastore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+<a href="https://github.com/nezastore"><img src="https://img.shields.io/badge/GitHub-nezastore-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://twitter.com/nezastore"><img src="https://img.shields.io/badge/Twitter-@nezastore-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://linkedin.com/in/nezastore"><img src="https://img.shields.io/badge/LinkedIn-nezastore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -132,8 +124,10 @@ Production-grade routing across multiple AI providers.
 <em>"Code is poetry. AI is the future. Building tools that matter."</em>
 </p>
 
+---
+
 <p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/Visitor-Counter-667EEA?style=for-the-badge&logo=analytics" alt="Visitor Counter">
+<a href="https://github.com/nezastore/codesentinel">
+<img src="https://img.shields.io/badge/View-Projects-667EEA?style=for-the-badge&logo=rocket" alt="Projects">
 </a>
 </p>
