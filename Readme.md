@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=60&color=667EEA&lines=Building+the+future+of+AI+tools;Muhammad+Neizam+M." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=550&height=60&color=667EEA&lines=Building+the+future+of+AI+tools;Muhammad+Neizam+M." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=500&height=40&color=764BA2&lines=Full-stack+Developer+%7C+AI+Tools+Builder+%7C+Jombang,+Jawa+Timur" alt="Typing SVG 2" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=450&height=40&color=764BA2&lines=Full-stack+Developer+%7C+AI+Tools+Builder+%7C+Jombang,+Jawa+Timur" alt="Typing SVG 2" /></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <table align="center">
 <tr>
 
-<td width="50%">
+<td width="48%">
 <h3 align="center">⭐ CodeSentinel</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Status-In+Development-667EEA?style=for-the-badge">
@@ -35,7 +35,7 @@ Finds bugs, security vulnerabilities, and performance issues automatically.
 </p>
 </td>
 
-<td width="50%">
+<td width="48%">
 <h3 align="center">⚡ 9router</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Production-22C55E?style=for-the-badge">
