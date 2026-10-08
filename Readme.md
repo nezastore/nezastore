@@ -84,12 +84,12 @@ Production-grade routing across multiple AI providers.
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nezastore&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezastore&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=nezastore&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&rank=icon" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezastore&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D1117&rank=icon" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nezastore&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nezastore&theme=midnight-purple&hide_border=true&background=0D1117&ring=667EEA&fire=22C55E&currStreakNum=667EEA&sideNums=667EEA" alt="GitHub Streak" width="60%">
 </p>
 
 ---
